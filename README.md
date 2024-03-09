@@ -1,5 +1,5 @@
 # Database Project - README
-
+(Note: Results are in a TXT file)
 This project aims to create a database schema for a dish-review application, emphasizing user-centric design, efficient data organization, and optimized query performance.
 
 ## Dependencies
